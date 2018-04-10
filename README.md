@@ -8,7 +8,7 @@ The third  part is a sample Solr schema with a script to post it
 
 The fourth part is the web project in the web directory that is a simple Python / Flask project that runs against a local DSE. This expects that you have a local DSE setup and running.
 
-The fifth is a cash-register simulator implemented with JMeter
+The fifth is a cash-register simulator implemented with JMeter.
 
 ## Mac Setup ##
 
