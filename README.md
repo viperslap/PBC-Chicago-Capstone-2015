@@ -24,7 +24,7 @@ The fifth part is a cash-register simulator implemented with JMeter.
   brew install python
 ```
 
-3 - verify you can run python:  
+3 - verify you can run python:
 
 ```
       python
